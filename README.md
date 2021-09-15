@@ -14,12 +14,12 @@ sudo apt-get install python-pip
 3.	Installare da terminale la libreria pymodbus
 pip install pymodbus
 
-4.	Avviare il programma python “serverModbus.py” https://github.com/simone99n/ModbusSimulator/blob/main/Server/serverModbus.py
+4.	Avviare il programma python “serverModbus.py” https://github.com/simone99n/ModbusSimulatorServer
 
 5.	Il Simulatore Server Modbus è avviato!
 
 MODBUS CLIENT + WEB APPLICATION
-1.	Avviare da un ambiente di sviluppo Java il programma https://github.com/simone99n/ModbusSimulator/tree/main/Client/Client
+1.	Avviare da un ambiente di sviluppo Java il programma https://github.com/simone99n/ModbusSimulatorClient
 
 2.	Il Client Modbus e la Web Application sono avviati!
 
